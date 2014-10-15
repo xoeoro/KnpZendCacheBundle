@@ -28,14 +28,14 @@ See [how to declare cache templates](http://framework.zend.com/manual/en/zend.ca
 php composer.phar require "xoeoro/knp-zend-cache-bundle":"dev-master"
 
 composer.json
-
+```json
 "repositories": [
     {
         "type": "vcs",
         "url": "http://github.com/xoeoro/KnpZendCacheBundle"
     }
 ]
-
+```
 ### Download KnpZendCacheBundle in vendor/bundles/Knp/Bundle/ZendCacheBundle dir
 
 If you use git:
